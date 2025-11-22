@@ -58,8 +58,9 @@
 <a href="https://github.com/manavmerja">
   <img src="https://github-readme-stats.vercel.app/api?username=manavmerja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
 </a>
+
 <a href="https://leetcode.com/manav99135/">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=manav99135&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/manav99135?theme=tokyonight&font=Inter&ext=heatmap" height="180" alt="LeetCode Stats" />
 </a>
 
 <br>
