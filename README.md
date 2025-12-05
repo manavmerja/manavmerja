@@ -1,53 +1,67 @@
-<div align="center">
-  
-  # Hi there, I'm Manav Merja! 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manav%20Merja&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%2B%20AI%20Engineer%20🚀&descAlignY=55&descAlign=50)
 
-  ### 🚀 Full Stack Developer | AI & ML Enthusiast
+<div align="center">
+
+  ###  Bridging the Gap Between Web & AI
 
   <p>
-    I am a passionate developer focused on building scalable web applications using the <b>MERN Stack</b> and <b>Next.js</b>. 
-    Currently, I am expanding my horizons by learning <b>Artificial Intelligence and Machine Learning</b> to build smarter applications.
+    I am a passionate <b>Full Stack Developer</b> (MERN/Next.js) evolved into an <b>AI Engineer</b>. 
+    My mission is to build intelligent, scalable applications by fusing modern web technologies with <b>Generative AI</b> and <b>Deep Learning</b>.
     <br><br>
-    🌱 <b>Aiming to contribute to Open Source (GSoC)</b>
+     <b>Aiming for GSoC</b> | 🔭 <b>Building NITI.ai</b>
   </p>
 
   ---
 
-  ### 🛠️ Tech Stack & Skills
+  ### 🚧 **AI Learning Status:** 🎓 CURRICULUM COMPLETED (100%)
+
+  ![Progress](https://geps.dev/progress/100)
 
 </div>
 
-**Frontend & Frameworks**
+---
+
+## 🛠️ The Arsenal (Tech Stack)
+
+### 💻 **Web Development (Full Stack)**
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Backend & Databases**
-<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-**AI / ML & Data Science** (Learning)
+### 🧠 **Artificial Intelligence & Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-**Tools & Version Control**
+### ✨ **Generative AI & LLMs**
 <p>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
+
+---
+
+## 🗺️ AI Mastery Roadmap (Completed)
+
+| Module | Topics Mastered | Status |
+| :--- | :--- | :---: |
+| **Foundations** | Python, NumPy, Pandas, Data Cleaning, EDA | ✅ |
+| **Machine Learning** | Regression, Classification, SVM, Random Forest, Clustering | ✅ |
+| **Deep Learning** | ANN, CNN (Vision), RNN/LSTM (Sequence) | ✅ |
+| **NLP** | Transfer Learning, BERT, Sentiment Analysis | ✅ |
+| **Generative AI** | RAG, Prompt Engineering, LLM APIs | ✅ |
 
 ---
 
@@ -73,6 +87,7 @@
 
 ### 🔭 Featured Projects
 
+* **NITI.ai:** (Upcoming) An advanced AI platform leveraging RAG and Agents.
 * **Waste Warrior:** A digital scrap management platform (SIH Project).
 * **Next Event:** An event aggregator built with Next.js.
 * **Placestar:** Online Quiz Application for Charusat University.
