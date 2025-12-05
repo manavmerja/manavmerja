@@ -8,7 +8,7 @@
     I am a passionate <b>Full Stack Developer</b> (MERN/Next.js) evolved into an <b>AI Engineer</b>. 
     My mission is to build intelligent, scalable applications by fusing modern web technologies with <b>Generative AI</b> and <b>Deep Learning</b>.
     <br><br>
-     <b>Aiming for GSoC</b> | 🔭 <b>Building NITI.ai</b>
+     <b>Aiming for GSoC</b> |  <b>Building NITI.ai</b>
   </p>
 
   ---
